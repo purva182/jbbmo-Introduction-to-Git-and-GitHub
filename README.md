@@ -11,6 +11,6 @@ A calculator that calculates simple interest given principal, annual rate of int
 ### Output:  
 - **Simple Interest** = P × T × R  
 
-```
+```.......
 
 _© 2025 XYZ, Inc._
